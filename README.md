@@ -1,13 +1,29 @@
-# AI-Powered CCTV Guard Monitoring & Intelligent Surveillance Platform
+<h1 align="center">Sentinel360</h1>
 
-## Dashboard
+<p align="center">
+  AI-Powered CCTV Guard Monitoring & Intelligent Surveillance Platform
+</p>
 
-![Dashboard](/main.png)
+<p align="center">
+  <img src="main.png" alt="Sentinel360 Banner" width="1000">
+</p>
 
-## System Workflow
+<p align="center">
+  <strong>AI Guard Monitoring</strong> •
+  <strong>PTZ Automation</strong> •
+  <strong>Smart Reporting</strong> •
+  <strong>Video Analytics</strong>
+</p>
 
-![Workflow](newcamera.png)
+<p align="center">
+  <img src="2way.png" alt="Banner" width="1000">
+</p>
 
-## Architecture
+<p align="center">
+  Intelligent Surveillance • PTZ Automation • AI Analytics • Client Reporting
+</p>
 
-![Architecture](siren.png)
+<p align="center">
+  <img src="assets/addnewcamera.png" alt="Add New Cmaera" width="400">
+  <img src="assets/cameratime.png" alt="Camera Time" width="400">
+</p>
