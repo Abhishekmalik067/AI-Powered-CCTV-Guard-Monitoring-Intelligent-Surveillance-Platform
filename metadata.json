@@ -1,0 +1,6 @@
+{
+  "name": "CCTV Operator Automator",
+  "description": "Automates periodic CCTV guard 2-way verification checks, PTZ sweeps, vehicle entries, and client reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
