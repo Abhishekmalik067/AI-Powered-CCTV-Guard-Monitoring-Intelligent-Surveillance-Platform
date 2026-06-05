@@ -1,37 +1,13 @@
-# Sentinel360
+# AI-Powered CCTV Guard Monitoring & Intelligent Surveillance Platform
 
-## Project Overview
+## Dashboard
 
-[Banner Image]
-
-## Features
-
-- AI Guard Monitoring
-- PTZ Automation
-- Two-Way Audio Communication
-- Event Recording
-- Client Notifications
+![Dashboard](/main.png)
 
 ## System Workflow
 
-[Workflow Image]
+![Workflow](newcamera.png)
 
 ## Architecture
 
-[Architecture Image]
-
-## Technology Stack
-
-- Python
-- FastAPI
-- OpenCV
-- YOLO
-- PostgreSQL
-- ONVIF
-
-## Future Enhancements
-
-- Face Recognition
-- Weapon Detection
-- Fire Detection
-- Mobile App
+![Architecture](siren.png)
